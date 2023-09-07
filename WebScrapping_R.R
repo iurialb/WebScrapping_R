@@ -1,5 +1,7 @@
 ### WEB SCRAPPING NO R
 
+# o presente projeto possui o intuito de realizar as filtragens iniciais de uma página web
+
 #Pacotes necessários
 library("httr")
 library("rvest")
